@@ -1,0 +1,44 @@
+body {
+	font-family: sans-serif;
+	background: #F4F4F4;
+}
+
+.page {
+    margin: 2em auto;
+    width: 35em;
+    border: 3px solid #F8FAED;
+    padding: 0.8em;
+    background: white;
+}
+
+h1 {
+	text-align: center;
+	color: #207cca;
+	font-family: monospace;
+	font-weight: bold;
+	margin: 10px;
+    letter-spacing: 1pt;
+}
+
+form {
+    text-align: center;
+    width: 500px;
+    margin: 50px auto;
+}
+
+.button {
+    position: relative;
+    padding: 6px 15px;
+    left: -8px;
+    border: 0 solid #207cca;
+    background-color: #207cca;
+    color: #fafafa;
+}
+
+.summary {
+    font-family: "Microsoft YaHei", sans-serif;
+    font-style: italic;
+    font-size: medium;
+    line-height: 150%;
+    margin: 40px;
+}
